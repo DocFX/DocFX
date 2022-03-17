@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi, I'm William.
 
-<!--
-**DocFX/DocFX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a tech ninja, I do [some stuff around Earth](https://www.linkedin.com/in/williampinaud).
+- I'm a [teacher at University of Limoges](https://www.unilim.fr/annuaire/) (Institute Of Technology).
+- I'm a web architect, developer, agile coach and leader.
+- I make public talks. Free [on YouTube](https://www.youtube.com/playlist?list=PLXi0A3nKmOU-NWDzbU85alWE5Ne4tElBi).
 
-Here are some ideas to get you started:
+I (slightly) contributed to a few projects, like Drupal modules, PHP Documentation, PHP-FIG, PHP-CS-FIXER, Symfony, Symfony Documentation, and a couple more.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I use Github for open source projects, and Gitlab for private ones. So you'll find most my activity here. :)
+
+<p align="center">
+  <a href="https://linktr.ee/DocFX" title="More about me and my projects">
+    <img src="https://skillicons.dev/icons?i=php,go,html,css,js,jquery,md,mysql,nodejs,postgres,py,redis,regex,sass,tailwind,wordpress" />
+    <img src="https://skillicons.dev/icons?i=ansible,git,docker,vim,aws,bash,css,idea,linux,nginx" />
+    <img src="https://skillicons.dev/icons?i=ae,ps,pr,svg" />
+  </a>
+</p>
+
+![DocFX's GitHub stats](https://github-readme-stats.vercel.app/api?username=DocFX&count_private=true)
