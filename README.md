@@ -9,10 +9,17 @@ I (slightly) contributed to a few projects, like Drupal modules, PHP Documentati
 
 I use Github for open source projects, and Gitlab for private ones. So you'll find most my activity here. :)
 
+- Symfony Connect profile: https://connect.symfony.com/profile/docfx
+- Twitter: [@innersonics](https://twitter.com/innersonics)
+
 <p align="center">
   <a href="https://linktr.ee/DocFX" title="More about me and my projects">
-    <img src="https://skillicons.dev/icons?i=php,go,html,css,js,jquery,md,mysql,nodejs,postgres,py,redis,regex,sass,tailwind,wordpress" />
+    <img src="https://skillicons.dev/icons?i=php,go,nodejs,py,html,css,js" />
+    <br/>   
+    <img src="https://skillicons.dev/icons?i=postgres,wordpress,tailwind,sass,regex,redis,mysql,jquery,md" />
+    <br/>
     <img src="https://skillicons.dev/icons?i=ansible,git,docker,vim,aws,bash,css,idea,linux,nginx" />
+    <br/>
     <img src="https://skillicons.dev/icons?i=ae,ps,pr,svg" />
   </a>
 </p>
