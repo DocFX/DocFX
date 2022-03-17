@@ -17,4 +17,4 @@ I use Github for open source projects, and Gitlab for private ones. So you'll fi
   </a>
 </p>
 
-![DocFX's GitHub stats](https://github-readme-stats.vercel.app/api?username=DocFX&count_private=true)
+![DocFX's GitHub stats](https://github-readme-stats.vercel.app/api?username=DocFX&count_private=true&theme=radical)
