@@ -4,6 +4,7 @@ I'm a tech ninja, I do [some stuff around Earth](https://www.linkedin.com/in/wil
 - I'm a [teacher at University of Limoges](https://www.unilim.fr/annuaire/) (Institute Of Technology).
 - I'm a web architect, developer, agile coach and leader.
 - I make public talks. Free [on YouTube](https://www.youtube.com/playlist?list=PLXi0A3nKmOU-NWDzbU85alWE5Ne4tElBi).
+- The rest is here: [https://linktr.ee/DocFX](https://linktr.ee/DocFX).
 
 I (slightly) contributed to a few projects, like Drupal modules, PHP Documentation, PHP-FIG, PHP-CS-FIXER, Symfony, Symfony Documentation, and a couple more.
 
