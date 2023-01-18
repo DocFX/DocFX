@@ -26,6 +26,6 @@ I use Github for open source projects, and Gitlab for private ones. So you'll fi
 </p>
 
 <div align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=DocFX&count_private=true&theme=radical" alt="DocFX's activity" />
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DocFX&layout=compact&theme=radical" alt="DocFX's languages" />
+  <img height="200em" src="https://github-readme-stats-seven-zeta-56.vercel.app/api?username=DocFX&count_private=true&theme=radical" alt="DocFX's activity" />
+  <img height="200em" src="https://github-readme-stats-seven-zeta-56.vercel.app/api/top-langs/?username=DocFX&layout=compact&theme=radical" alt="DocFX's languages" />
 </div>
