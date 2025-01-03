@@ -26,15 +26,25 @@ I use Github for open source projects, and Gitlab for private ones. So you'll fi
 - LinkedIn: [https://www.linkedin.com/in/williampinaud/](https://www.linkedin.com/in/williampinaud/)
 
 <p align="center">
-  <a href="https://linktr.ee/DocFX" title="More about me and my projects">
-    <img src="https://skillicons.dev/icons?i=php,go,nodejs,py,html,css,js" />
-    <br/>   
-    <img src="https://skillicons.dev/icons?i=postgres,wordpress,tailwind,sass,regex,redis,mysql,jquery,md" />
-    <br/>
-    <img src="https://skillicons.dev/icons?i=ansible,git,docker,vim,aws,bash,css,idea,linux,nginx" />
-    <br/>
-    <img src="https://skillicons.dev/icons?i=ae,ps,pr,svg" />
-  </a>
+    ⭐⭐⭐⭐⭐
+    <br>
+    <img src="https://skillicons.dev/icons?i=php,symfony,html,css,tailwind,regex,mysql,postgres,md,docker,phpstorm" />
+    <br><br>
+    ⭐⭐⭐⭐
+    <br>
+    <img src="https://skillicons.dev/icons?i=js,cassandra,mongodb,wordpress,sass,jquery,git,nginx" />
+    <br><br>
+    ⭐⭐⭐
+    <br>
+    <img src="https://skillicons.dev/icons?i=redis,vim,bash,idea,linux,debian,github" />
+    <br><br>
+    ⭐⭐
+    <br>
+    <img src="https://skillicons.dev/icons?i=ansible,go,nodejs,py,aws,vscode" />
+    <br><br>
+    💡💡💡💡💡
+    <br>
+    <img src="https://skillicons.dev/icons?i=ae,ps,pr,svg,ableton,discord" />
 </p>
 
 <div align="center">
